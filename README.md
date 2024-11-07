@@ -32,7 +32,7 @@ Utvärdering: Utöka input data och visa beräkningstiden för varje vald algori
 
 Hej Alejandro!
   
-  Lagt upp Uppgiften till ett nytt Repository,puschar uppdateringar vartefter. Mejlar när jag anser mig klar elelr om jag kör fast helt.
+  Lagt upp Uppgiften till ett nytt Repository,puschar uppdateringar vartefter. Mejlar när jag anser mig klar eller om jag kör fast helt.
 
   /Jonas J
   
