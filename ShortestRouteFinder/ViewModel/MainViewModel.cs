@@ -33,7 +33,7 @@ namespace ShortestRouteFinder.ViewModel
 
         private List<Route> LoadRoutes()
         {
-            var json = File.ReadAllText("routes.json");
+            var json = File.ReadAllText("EuropeRoutes.json");
             return JsonConvert.DeserializeObject<List<Route>>(json);
         }
 
