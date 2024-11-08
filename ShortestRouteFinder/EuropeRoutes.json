@@ -1,11 +1,11 @@
 ﻿[
   {
-    "Start": "London",
+    "StartingPoint": "London",
     "Destination": "Paris",
     "Distance": 344
   },
   {
-    "Start": "London",
+    "StartingPoint": "London",
     "Destination": "Berlin",
     "Distance": 1092
   },
