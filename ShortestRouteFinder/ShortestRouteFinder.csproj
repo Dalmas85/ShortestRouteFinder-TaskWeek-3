@@ -21,9 +21,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="EuropeRoutes.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Resource>
+    <Content Include="EuropeRoutes.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>
