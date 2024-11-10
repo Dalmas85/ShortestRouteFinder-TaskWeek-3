@@ -38,9 +38,11 @@ Hej Alejandro!
 
   Uppdatering!
 
-  Hej Alejandro! jag har läst ditt mail idag söndag,har ändrat i properties för json filen EuropeRoutes.json. Har pushat detta till Develop branch här på GIT HUB.
+  Hej Alejandro! 
+  
+  jag har läst ditt mail idag söndag,har ändrat i Properties för json filen EuropeRoutes.json. Har pushat detta till Develop branch här på GIT HUB.
 
-  Testade att clona mitt Repository och öppna det i Visual Studio då blev det exeception error igen, men när jag laddade ner programmmet som zip fil,och packade upp det och körde så då fungerade det.
+  Testade att clona mitt Repository och öppna det i Visual Studio då blev det exeception error igen, men när jag laddade ner programmmet som zip fil och packade upp det och körde så då fungerade det.
 
   /Jonas
   
