@@ -7,22 +7,13 @@ using System.Threading.Tasks;
 
 namespace ShortestRouteFinder.Model
 {
-
-
-
     public class Route
     {
-        public string Start { get; set; }
-        public string Destination { get; set; }
+        public string Start { get; set; } = string.Empty;
+        public string Destination { get; set; } = string.Empty;
         public double Distance { get; set; }
-
-        public Route(string start, string destination, double distance)
-        {
-            Start = start;
-            Destination = destination;
-            Distance = distance;
-
-        }
     }
 
 }
+
+
