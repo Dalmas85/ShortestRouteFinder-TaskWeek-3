@@ -33,6 +33,6 @@ Utvärdering: Utöka input data och visa beräkningstiden för varje vald algori
 Hej Alejandro!
   
   Här finns min senaste version av uppgiften som jag lämmnar in idag med en hel del buggfixar och förbättringar jämfört med den förra versionen.
-  ladda ner Develop branchen som zip fil kör testa och kika på koden. I filen Tankar och upplagg kring programmet.txt finns en liten beskrivning över hur jag gjort och tänkt.
+  Ladda ner Develop branchen som zip fil kör testa och kika på koden. I filen Tankar och upplagg kring programmet.txt finns en liten beskrivning över hur jag gjort och tänkt.
 
   Hälsningar Jonas J.
