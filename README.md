@@ -32,7 +32,7 @@ Utvärdering: Utöka input data och visa beräkningstiden för varje vald algori
 
 Hej Alejandro!
   
-  Lagt upp Uppgiften till ett nytt Repository,puschar uppdateringar vartefter. Mejlar när jag anser mig klar eller om jag kör fast helt.
+  Här finns min senaste version av uppgiften som jag lämmnar in idag med en hel del buggfixar och förbättringar jämfört med den förra versionen.
+  ladda ner Develop branchen som zip fil kör testa och kika på koden. I filen Tankar och upplagg kring programmet.txt finns en liten beskrivning över hur jag gjort och tänkt.
 
-  /Jonas J
-  
+  Hälsningar Jonas J.
