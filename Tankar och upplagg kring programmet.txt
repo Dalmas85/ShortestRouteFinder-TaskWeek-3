@@ -1,0 +1,24 @@
+I Filen RouteHelper.cs finns en hjälpmetod för att hämta rutterna ifrån jsonfilen.
+
+Här finns också de bägge sorterings algoritmerna Bubbel Sort och Quik Sort som sorterar rutterna antingen stigande eller fallande när det gäller avstånden i km.
+
+I MainWindow.xaml.cs finns koden för att ladda in rutterna ifrån json filen.här sorteras också dubbletter bort ifrån listan. 
+
+Här görs också följande.
+
+1. den tidigare buggen som gjorde att hela programmet kraschade när användare tryckte på knappen Sort Routes direkt är åtgärdad. Nu tvingas man istället att först ange sorterings algoritm iden först rullisten annars kommer ett pop up fönster med en varning upp. Detsamma gäller för sorterings ordning kortaste eller längsta avstånd först (stigande eller fallande). Det går ej att fortsätta innan dessa två val är gjorda.
+
+2. Tiden för sortering med respektive alogritm kommer upp i ett pop up fönster och anges i ms. Samma tid visas också i fönstret som Sorting Time för den senaste sorteringen. Den tiden uppdateras när en ny sortering görs.
+
+EuropeRoutes.json filen innehåller listan med alla destinationer och avståndet dem emellan i kilometer.
+
+MainViewModels.cs i ViewModel katalogen innehåller en publik class som heter AMinView  model samt en metod som laddar rutterna ifrån json filen.
+
+Routes.cs i Model katalogen representerar en rutt och hjälper till att hantera datan ifrån json filen.
+
+Jag lyckades inte fullt ut med att få till strukturen på programmet med WPF gränsnittet i View katalogen.
+
+I övrigt så tror jag att jag fick till alla funktioner som efterfrågades i uppgiften sen finns det helt säkert förbättringspotential i koden. 
+
+/Jonas J
+
