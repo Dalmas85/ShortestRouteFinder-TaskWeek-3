@@ -46,3 +46,32 @@ Hej Alejandro!
 
   /Jonas
   
+## Uppgift 3
+
+15:41 2024-11-15
+
+Godkänd. Klarat sorterings algoritmen.
+
+## Anmärkningar
+
+1. Följer inte MVVM
+
+	View är enbart för användargränsnnitet. Ingen logik under View
+
+	private void OnSortButtonClick(object sender, RoutedEventArgs e)
+	{
+		** Enbart kod som har med UI **
+		** All logik ska kan utföras utanför view.
+	}
+
+
+3. Bra med felhantering. Säkerställer element selekterad i comboboxar när man väljer "Sort Routes".
+	
+	Något att tänka på: Om ingenting är valt, så kan knappen "Sort Routes" deaktiveras, 
+	och aktiveras när det finns förutsättningar att utföra komandot. 
+  På så sätt kommer användaren att få bättre flöde i arbete utan att behöva trycka bort extra fönster.
+  Att disabla knappar när det inte finns tillräklig med info, är mer eller mindre standard. 
+	
+4. Bra att försöka ta tid för algoritmerna. Vissa gärna i samma fönster (t ex en label). 
+   
+/Alejandro
